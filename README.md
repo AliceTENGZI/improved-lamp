@@ -1,5 +1,9 @@
 # improved-lamp
 //hello world
-class hello{
-
+// Hello.java
+class Hello {
+  int test() {
+    String s = null;
+    return s.length();
+  }
 }
